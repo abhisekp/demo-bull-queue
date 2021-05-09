@@ -15,7 +15,7 @@
     "bluebird": "^3.5.1",
     "bull": "^3.3.10",
     "config": "^1.30.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "ms": "^2.1.1",
     "redis": "^2.8.0",
     "source-map-support": "^0.5.4"
